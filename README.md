@@ -77,7 +77,7 @@ sudo apt install -y \
 
 ```bash
 cd ~
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/d3im3r/arm_digital_twin_ws.git
 ```
 
 ### 2. Entrar al workspace
@@ -236,8 +236,9 @@ Uso académico y educativo.
 ## ✨ Autor
 
 Desarrollado por
-**Deimer Miranda Montoya**
-
+**Deimer Anndres Miranda Montoya**
+demiranda@unal.edu.co
+deimer_miranda91162@elpoli.edu.co
 ---
 
 ## 🚀 Frase del proyecto
